@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "CoinPurse",
+    "slug": "CoinPurse",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "CoinPurse"
+}
